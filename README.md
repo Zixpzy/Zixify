@@ -13,12 +13,12 @@ python3 Zixify -h
 
 
 How to clone the repository
-https://cdn.discordapp.com/attachments/1121626462794039357/1124932637706960928/Screenshot_2023-07-02_011742.png
+[!(https://cdn.discordapp.com/attachments/1121626462794039357/1124932637706960928/Screenshot_2023-07-02_011742.png)]
 
 
 The directory
-https://cdn.discordapp.com/attachments/1121626462794039357/1124932613656809562/Screenshot_2023-07-02_011801.png
+[!(https://cdn.discordapp.com/attachments/1121626462794039357/1124932613656809562/Screenshot_2023-07-02_011801.png)]
 
 
 This is what it should look like
-https://cdn.discordapp.com/attachments/1121626462794039357/1124932614017527849/Screenshot_2023-07-02_012001.png
+[!(https://cdn.discordapp.com/attachments/1121626462794039357/1124932614017527849/Screenshot_2023-07-02_012001.png)]
